@@ -1,0 +1,6 @@
+
+authtoken: 2gkiMl0AJJZwjXhY678GI9mlwCS_4LAsT9BTcpwnrvGb2JQ7C
+tunnels:
+  mlflow:
+    addr: 5000
+    proto: http
